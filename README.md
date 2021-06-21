@@ -1,3 +1,5 @@
+![Screen Shot 2021-06-21 at 11 34 03 AM](https://user-images.githubusercontent.com/54006827/122797284-eede6380-d284-11eb-9f70-6bef99628105.png)
+![Screen Shot 2021-06-21 at 11 34 36 AM](https://user-images.githubusercontent.com/54006827/122797296-f271ea80-d284-11eb-9334-e064c89b29ae.png)
 
 
 # Group-redux-pizza-parlor
